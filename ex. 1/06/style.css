@@ -1,0 +1,11 @@
+body{
+    background-color: gray;
+    text-align: center;
+}
+h1{
+    font-family: Tahoma;
+}
+hr{
+    background-color: black;
+    width: 100%;
+}
